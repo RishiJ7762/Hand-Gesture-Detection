@@ -1,0 +1,5 @@
+
+train: C:/Users/Acer/images/train
+val: C:/Users/Acer/images/valid
+nc: 5
+names: ['hello', 'iloveyou', 'no', 'thanks', 'yes']
